@@ -1,54 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Stephen Pino Blog | I Have a Dream</title>
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>I Have a Dream | Stephen Pino Blog</title>
-<meta name="generator" content="Jekyll v4.1.0" />
-<meta property="og:title" content="I Have a Dream" />
-<meta name="author" content="Stephen Pino" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation." />
-<meta property="og:description" content="I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation." />
-<link rel="canonical" href="http://localhost:4000/StephenPino-blog/posts/1963/08/28/i-have-a-dream/" />
-<meta property="og:url" content="http://localhost:4000/StephenPino-blog/posts/1963/08/28/i-have-a-dream/" />
-<meta property="og:site_name" content="Stephen Pino Blog" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="1963-08-28T11:18:00+01:00" />
-<script type="application/ld+json">
-{"datePublished":"1963-08-28T11:18:00+01:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/StephenPino-blog/posts/1963/08/28/i-have-a-dream/"},"url":"http://localhost:4000/StephenPino-blog/posts/1963/08/28/i-have-a-dream/","author":{"@type":"Person","name":"Stephen Pino"},"description":"I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.","headline":"I Have a Dream","dateModified":"1963-08-28T11:18:00+01:00","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+I"&<p>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</p>
 
-  <script src="/StephenPino-blog/assets/js/dmode.js"></script>
-  <link rel="stylesheet" href="/StephenPino-blog/assets/css/style.css" />
-</head>
-
-  <body>
-    <main>
-      <header class="p-page">
-  <a href="/StephenPino-blog/">
-    <h1>
-      Stephen Pino Blog
-    </h1>
-  </a>
-  <div class="dmode">
-    <img src="/StephenPino-blog/assets/icons/sun.svg" alt="">
-  </div>
-</header>
-
-      <article>
-        <div class="meta">
-          <h1 class="title">
-            I Have a Dream
-          </h1>
-          <small>28 Aug 1963</small>
-        </div>
-        <div class="content">
-          <p>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</p>
-
-<p><img src="https://picsum.photos/800/300" alt="Wild"></p>
+<p><img src="https://picsum.photos/800/300" alt="Wild" /></p>
 
 <p>Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.</p>
 
@@ -141,22 +93,4 @@
 <p><em>Free at last! Free at last!</em></p>
 
 <p><em>Thank God Almighty, we are free at last!</em></p>
-
-        </div>
-      </article>
-      <footer>
-  <p>
-    <small>Inspired by Gatsby starter blog.</small>
-    <br>
-    Developed with <img class="emoji" title=":heart:" alt=":heart:" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> by <a href="https://github.com/sharadcodes">sharadcodes</a>
-    <br>
-    © 2020
-  </p>
-</footer>
-<script src="/StephenPino-blog/assets/js/lbox.js"></script>
-<script>
-  dload()
-</script>
-    </main>
-  </body>
-</html>
+:ET

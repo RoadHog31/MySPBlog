@@ -7,8 +7,8 @@ baseurl: "/StephenPino-blog"
 author:
   name: Stephen Pino
   email: stephenp3123@gmail.com
-  image: "~\MySPBlog\assets\img\me.jpg"
-  bio: Developed by <b>Sharad Raj</b> who lives in India building useful things for the world.
+  image: "MySPBlog/assets/img/me.jpg"
+  bio: Developed by <b>Stephen Pino</b>
   github: "sharadcodes"
 
 plugins:
