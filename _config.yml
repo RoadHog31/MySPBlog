@@ -1,0 +1,29 @@
+title: Stephen Pino Blog
+markdown: kramdown
+url: ""
+baseurl: "/StephenPino-blog"
+
+# for atom feed
+author:
+  name: Stephen Pino
+  email: stephenp3123@gmail.com
+  image: "~\MySPBlog\assets\img\me.jpg"
+  bio: Developed by <b>Sharad Raj</b> who lives in India building useful things for the world.
+  github: "sharadcodes"
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:categories/:year/:month/:day/:title/
