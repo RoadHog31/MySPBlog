@@ -1,4 +1,4 @@
-# Geekyll Starter Blog v1.0
+# Jekyll Starter Blog v1.0
 My minimal Jekyll theme for blogging.
 
 Project: My simple dynamic Blog linked to my perosnal website
